@@ -1,0 +1,13 @@
+
+#### `.gitignore`
+
+```gitignore
+# Ignore task file
+tasks.txt
+
+# Ignore bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code config
+.vscode/
